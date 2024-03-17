@@ -12,7 +12,3 @@ DormAlarm은 기숙사의 공지사항을 주기적으로 db에 추가하여 모
 crontab에 .sh 파일을 등록하여 주기적으로 py 파일이 실행되도록 했습니다.  
 ![스크린샷 2024-03-17 오후 6 15 41](https://github.com/yoong-saks/DormAlarm/assets/42439493/cde430af-c5eb-4974-9dcb-b47bf6b17e8d)  
 sh의 로그를 추척하기위해 crontab을 통해 해당 디렉토리에 log를 남기도록 했습니다.
-
-## 디스코드 알림봇
-blog 설명 : https://flannelsocks.tistory.com/18
-
